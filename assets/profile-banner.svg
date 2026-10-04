@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title description">
+  <title id="title">SilverSakuraz</title>
+  <desc id="description">Okungz. Building and learning. Japanese learning, reading tools, and software experiments.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#faf5fc" />
+      <stop offset="1" stop-color="#fff0f2" />
+    </linearGradient>
+    <path id="petal" d="M0 0C-10-27-42-63-29-98C-24-112-12-122-5-126L0-116L5-126C12-122 24-112 29-98C42-63 10-27 0 0Z" />
+    <g id="blossom">
+      <use href="#petal" />
+      <use href="#petal" transform="rotate(72)" />
+      <use href="#petal" transform="rotate(144)" />
+      <use href="#petal" transform="rotate(216)" />
+      <use href="#petal" transform="rotate(288)" />
+    </g>
+    <clipPath id="frame"><rect width="1200" height="300" rx="24" /></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="300" fill="url(#background)" />
+    <use href="#blossom" transform="translate(1160 8) scale(1.35)" fill="#e8bed0" opacity=".24" />
+    <use href="#blossom" transform="translate(1020 161) rotate(12) scale(.8)" fill="#dc9fbb" opacity=".66" />
+    <circle cx="1020" cy="161" r="9" fill="#fff3f6" />
+    <use href="#petal" transform="translate(884 233) rotate(47) scale(.19)" fill="#d5acc5" opacity=".8" />
+    <use href="#petal" transform="translate(1111 255) rotate(-35) scale(.15)" fill="#d5acc5" opacity=".75" />
+    <g font-family="Segoe UI, Arial, sans-serif">
+      <text x="64" y="76" fill="#735568" font-size="17" letter-spacing="3">OKUNGZ / BUILDING &amp; LEARNING</text>
+      <text x="59" y="163" fill="#422a4c" font-size="74" font-weight="600" letter-spacing="-2">SilverSakuraz</text>
+      <text x="64" y="210" fill="#735568" font-size="25">Japanese learning · reading tools · software experiments</text>
+    </g>
+    <rect x="64" y="247" width="50" height="3" rx="1.5" fill="#bd7c9d" />
+  </g>
+</svg>
