@@ -4,44 +4,22 @@
 
 ## Hi, I'm Okungz 🌸
 
-I learn by building practical tools. My projects explore Japanese learning, reading, web development, and how software communicates over a network.
+I build tools for studying Japanese and reading fiction, along with small browser games. I also make study sites for my computer science courses.
 
-Some source repositories are private. Public demos are linked where available.
+## Try my projects
 
-## Selected projects
+- **[47の発見 · Japan Puzzle Atlas](https://47-no-hakken.vercel.app/)** combines geography quizzes with an illustrated atlas of Japan’s 47 prefectures.
+- **[数え方 屋台 · Kazoekata](https://kazoekata-game.vercel.app/)** lets you practice Japanese counters and their readings by filling timed orders at a shop stall.
+- **[อ่านอีกครั้ง · Novel Reader](https://silversakuraz-novel-reader.vercel.app/)** is an offline mobile reader for Markdown and text manuscripts that saves bookmarks and reading progress on your device.
+- **[Submitn't](https://submitnt.vercel.app/)** is a short browser game about a Submit button that runs away from your cursor.
 
-### Kazoekata · 数え方
+## My Japanese study tools
 
-A shop-themed game for practicing Japanese counters and their readings. Timed orders, pronunciation questions, and spaced repetition make learning part of the gameplay.
+- **Manabi · Nihongo Compass** is my personal study app for grammar notes, sentence practice, and Anki goals. Built with Next.js, TypeScript, and Supabase.
+- **Japan Daily News Reader** brings together Japanese headlines, furigana, Thai translations, and vocabulary. Built with Python, FastAPI, SQLite, and Next.js.
 
-`React` · `TypeScript` · `Vite` · `Tailwind CSS`
+## Networking & coursework
 
-**[Play the game →](https://kazoekata-game.vercel.app/)**
-
-### Novel Reader · อ่านอีกครั้ง
-
-A mobile reading PWA for Markdown and text files, with offline reading, bookmarks, and adjustable typography. Imported content stays in the device's browser.
-
-`JavaScript` · `IndexedDB` · `Service workers`
-
-**[Open the reader →](https://silversakuraz-novel-reader.vercel.app/)**
-
-### Japan Daily News Reader
-
-A personal Japanese-learning news reader with furigana, Thai translations, and vocabulary support. A Python RSS pipeline feeds a FastAPI backend and a Next.js frontend.
-
-`Python` · `FastAPI` · `SQLite` · `Next.js` · `TypeScript`
-
-*In development · Source currently private · Public demo planned*
-
-### Remote System Monitor Protocol
-
-A Python client–server project with a custom application-layer protocol over TCP. It monitors CPU, memory, disk usage, and network I/O, with threading to support multiple clients.
-
-`Python` · `TCP sockets` · `Threading`
-
-**[Explore the source →](https://github.com/SilverSakuraz/RSMP-Project)** · [Report](https://github.com/SilverSakuraz/RSMP-Project/blob/main/RSMP_Report.pdf) · [Slides](https://github.com/SilverSakuraz/RSMP-Project/blob/main/RSMP_Slide.pdf)
-
----
-
-Also learning through [computer communications coursework](https://github.com/SilverSakuraz/Computer-Communications-Exercise) and [C/C++ programming practice](https://github.com/SilverSakuraz/git101).
+- **[Remote System Monitor Protocol](https://github.com/SilverSakuraz/RSMP-Project)** uses a custom TCP protocol in Python to monitor CPU, memory, disk, and network I/O. [Report](https://github.com/SilverSakuraz/RSMP-Project/blob/main/RSMP_Report.pdf) · [Slides](https://github.com/SilverSakuraz/RSMP-Project/blob/main/RSMP_Slide.pdf)
+- **[Network Study Notes](https://network-study-notes.vercel.app/)** offers Thai-language lessons and diagrams on routing, IP forwarding, and wireless networks.
+- [Computer communications exercises](https://github.com/SilverSakuraz/Computer-Communications-Exercise) · [C/C++ practice](https://github.com/SilverSakuraz/git101)
